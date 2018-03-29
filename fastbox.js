@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fast Box
 // @namespace    http://tampermonkey.net/
-// @version      4.0
+// @version      4.5
 // @description  Boxes... only FASTER!
 // @author       Justin O'Reilly
 // @match        https://crm.welcomewagon.com/index.php?module=Invoice&view=Edit*
