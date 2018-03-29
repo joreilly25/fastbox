@@ -6,7 +6,6 @@
 // @author       Justin O'Reilly
 // @match        https://crm.welcomewagon.com/index.php?module=Invoice&view=Edit*
 // @grant        none
-// @downloadURL https://github.com/joreilly25/fastbox/raw/master/Fast%20Box.user.js
 // ==/UserScript==
 
 (function() {
