@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Fast Box
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      3.0
 // @description  Boxes... only FASTER!
 // @author       Justin O'Reilly
 // @match        https://crm.welcomewagon.com/index.php?module=Invoice&view=Edit*
 // @grant        none
+// @downloadURL  https://github.com/joreilly25/fastbox/raw/master/Fast%20Box.user.js
 // ==/UserScript==
 
 (function() {
