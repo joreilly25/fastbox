@@ -28,8 +28,8 @@
           $("#lineFiles" + startnum).prop('checked', true);
               startnum++;
               counter++;
-              //console.log($("#lineFiles" + startnum));
-              //console.log(startnum);
+              console.log($("#lineFiles" + startnum));
+              console.log(startnum);
           }
           $("#lineFiles" + orignum).prop('checked', false);
       }
