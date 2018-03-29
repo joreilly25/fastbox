@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fast Box
 // @namespace    http://tampermonkey.net/
-// @version      5.0
+// @version      6.0
 // @description  Boxes... only FASTER!
 // @author       Justin O'Reilly
 // @match        https://crm.welcomewagon.com/index.php?module=Invoice&view=Edit*
@@ -30,8 +30,8 @@
           $("#lineFiles" + startnum).prop('checked', true);
               startnum++;
               counter++;
-              //console.log($("#lineFiles" + startnum));
-              //console.log(startnum);
+              console.log($("#lineFiles" + startnum));
+              console.log(startnum);
           }
           $("#lineFiles" + orignum).prop('checked', false);
       }
