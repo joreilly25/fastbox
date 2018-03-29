@@ -7,6 +7,7 @@
 // @match        https://crm.welcomewagon.com/index.php?module=Invoice&view=Edit*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/joreilly25/fastbox/master/fastbox.js
+// @downloadURL  https://github.com/joreilly25/fastbox/raw/master/Fast%20Box.user.js
 // ==/UserScript==
 
 (function() {
